@@ -12,7 +12,6 @@ function myFunction(){
     }
 }
 
-function playGame() {
-    window.open("game.html","_blank");
-}
+// Game Function
+
   
